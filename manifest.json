@@ -1,0 +1,18 @@
+{
+  "name": "Anti-Scroll Guardian",
+  "short_name": "Guardian",
+  "description": "Le gardien de ton sommeil et de ta santé numérique.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#4CAF50",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/542/542638.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
